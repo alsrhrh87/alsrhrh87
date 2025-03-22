@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **alsrhrh87@naver.com**
 
-- 📄 Know about my experiences [file:///C:/Users/%EA%B9%80%EB%AF%BC%EA%B7%9C/Downloads/%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf](file:///C:/Users/%EA%B9%80%EB%AF%BC%EA%B7%9C/Downloads/%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
