@@ -1,5 +1,5 @@
 <h1 align="center">初めまして、私は キム・ミンギュと申します。</h1>
-<h3 align="left side">韓国の大学(2年)で情報通信を専攻した23卒、既卒者です。</h3>
+<h3 align="left side">来年から東京で働きます！よろしくお願いします。</h3>
 
 - 🌱 I’m currently learning **MySQL, Python**
 
